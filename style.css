@@ -1,0 +1,22 @@
+*{
+    margin: auto;
+}
+.title{
+    text-align: center;
+    background-color: teal;
+    color: white;
+    margin: 8px;
+    padding: 8px;
+}
+.links{
+    background-color: #012326;
+    margin: 8px;
+    padding: 16px;
+}
+a{
+    color: white;
+    display: block;
+    text-decoration: none;
+    font-size: large;
+    font-style: oblique;
+}
