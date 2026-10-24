@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #bAC095;
+}
+.title {
+    text-align: center;
+    background-color: #3D4125;
+    color: white;
+    padding: 8px;
+    margin: 16px 32px 0 32px;
+}
+.recipe-container {
+    background-color: #D4DE95;
+    margin: 0 32px;
+}
+.image {
+    height: 200px;
+    width: 100%;
+    object-fit: contain;
+    padding: 4px 0;
+    margin: 0 auto 12px auto;
+    display: block;
+    outline: #636B2F solid 4px;
+    background-color: #bAC095;
+}
+.description {
+    margin: 8px 16px;
+}
+.description-para {
+    margin: 8px 64px;
+}
+.ingredients {
+    margin: 8px 16px;
+}
+.unordered-list {
+    margin: 8px 64px;
+}
+.steps {
+    margin: 8px 16px;
+}
+.ordered-list {
+    margin: 8px 64px;
+}
+.home {
+    background-color: #636B2F;
+    color: white;
+    padding: 8px;
+    margin: 8px 32px;
+    text-decoration: none;
+}
